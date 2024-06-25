@@ -1,0 +1,12 @@
+{
+  "name": "NinJingGame",
+  "uuid": "b93a6af4-d828-4764-9c08-bbbfad1a24d8",
+  "creator": {
+    "version": "3.8.2"
+  },
+  "dependencies": {
+    "axios": "^1.6.8",
+    "minigame-api-typings": "^3.8.4",
+    "miniprogram-api-typings": "^3.12.2"
+  }
+}
